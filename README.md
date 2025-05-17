@@ -106,3 +106,7 @@ Interactive Elements: Event listeners for cards, buttons, and navigation element
 generateArticleCards(page): Generates article cards based on pagination
 updatePagination(): Updates the pagination UI based on current page
 Event handlers for pagination buttons and numbered navigation
+
+# link:
+
+https://elaborate-gecko-3f420c.netlify.app/
